@@ -1,4 +1,5 @@
-# StudentManagementSystem-main
+# Quản lý sinh viên
+
 Đây là Hệ thống quản lý sinh viên dựa trên bảng điều khiển, là một ứng dụng đơn giản được thiết kế để quản lý hồ sơ sinh viên, bao gồm tạo, cập nhật và xóa thông tin sinh viên. Ngoài ra, nó cho phép phân công các khóa học cho sinh viên, chèn điểm của sinh viên, tính điểm trung bình và xem các khóa học và khoa có sẵn.
 
 # Các chức năng chính của Hệ thống quản lý sinh viên này bao gồm:
