@@ -23,6 +23,6 @@
 # Công nghệ:
 
 - C#
-- .NET SDK (7.0.403)
+- .NET SDK (8.0.x)
 - Microsoft SQL Server (SQL Express 2022)
 
